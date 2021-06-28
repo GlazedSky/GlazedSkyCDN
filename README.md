@@ -9,11 +9,11 @@
 
 
 ```
-https://cdn.jsdelivr.net/gh/GlazedSky/hexo-cdn@1.0/路径
+https://cdn.jsdelivr.net/gh/GlazedSky/GlazedSkyCDN@1.0/路径
 ```
 
 
 
 例如：
 
-<a href="https://cdn.jsdelivr.net/gh/GlazedSky/hexo-cdn@1.0/avatar/avatar.png">https://cdn.jsdelivr.net/gh/GlazedSky/hexo-cdn@1.0/avatar/avatar.png</a>
+<a href="https://cdn.jsdelivr.net/gh/GlazedSky/GlazedSkyCDN@1.0/avatar/avatar.png">https://cdn.jsdelivr.net/gh/GlazedSky/GlazedSkyCDN@1.0/avatar/avatar.png</a>
